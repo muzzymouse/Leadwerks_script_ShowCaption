@@ -7,4 +7,4 @@ Leadwerks Game Engine. Скрипт отображения подписи для
 Скрипт выводит задаваемую в настройках подпись в центре экрана.
 
 ## Установка
-Для установки скрипта, скопируйте его в папку "Leadwerks\Projects\<You_project_name>\Scripts\".
+Для установки скрипта, скопируйте его в папку "Leadwerks\Projects\You_project_name\Scripts\".
